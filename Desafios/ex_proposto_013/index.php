@@ -42,11 +42,6 @@
         $tot5 = floor($resto/5);
         $resto %= 5;
 
-        $tot2 = floor($resto/2);
-        $resto %= 2;
-
-        $tot1 = floor($resto/1);
-        $resto %= 1;
     ?>
 
     <section>
